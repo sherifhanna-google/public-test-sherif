@@ -1,5 +1,12 @@
 # C2PA Conformance Program Public Repository
 
-The documents governing the current version of the C2PA Conformance Program are available in the directory named `current`. 
+## Documents
+The documents governing the current version of the C2PA Conformance Program are available in the `current` directory. 
 
-Prior versions of the documents for earlier versions of the C2PA Conformance Program are stored in the directory named `archive`.
+Prior versions of the documents for earlier versions of the C2PA Conformance Program are stored in the `archive` directory named.
+
+## C2PA Conforming Products List (CPL)
+The C2PA Conforming Products List is under the `conforming-products` directory.
+
+## C2PA Trust List and C2PA TSA Trust List
+The C2PA Trust List and the C2PA TSA Trust List are under the `trust-list` directory.
