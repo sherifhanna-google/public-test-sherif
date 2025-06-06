@@ -21,3 +21,50 @@ Action: Created new 'current' directory and stamped it with creation timestamp 2
 Files Copied in This Update:
   - FAILED to get log history. The git log command is the source of the hang.
 --------------------------------------------------
+Log Entry: Fri Jun  6 01:00:55 UTC 2025
+Triggering Commit SHA: 9d4830535613b2f415dd5f9515e45c75c6b6da92
+Action: Archived content from 2025-06-06_00-56-49 to 'archive/archive_2025-06-06_00-56-49'.
+Action: Created new 'current' directory and stamped it with creation timestamp 2025-06-06_01-00-54.
+
+Files Copied in This Update:
+
+  - docs/C2PA Certificate Policy.pdf (source commit: 4f82b4c)
+  - docs/C2PA Conformance Program.pdf (source commit: 4f82b4c)
+  - docs/C2PA Generator Product Security Requirements.pdf (source commit: 4f82b4c)
+  - docs/C2PA Governance Framework.pdf (source commit: 4f82b4c)
+  - docs/Companion Guide for the C2PA Conforming Products List.pdf (source commit: 4f82b4c)
+  - docs/Internal Conformance Program Tracking Process.pdf (source commit: 4f82b4c)
+  - docs/diagrams/GP_implementation_security_levels_flow_chart.png (source commit: 9f2889c)
+  - docs/diagrams/toe-backend-video_gen_service.png (source commit: e135df4)
+  - docs/diagrams/toe-distributed-edge_app-backend_claimsigning.png (source commit: e135df4)
+  - docs/diagrams/toe-edge-monolithic_ree_app.png (source commit: e135df4)
+  - docs/diagrams/toe-edge-ree_app-monolithic_tee_app.png (source commit: e135df4)
+  - docs/diagrams/toe-edge-ree_app-multi_tenant_ree-claimgen.png (source commit: e135df4)
+  - docs/diagrams/toe-edge-ree_app-multi_tenant_tee_claimgen.png (source commit: e135df4)
+  - docs/diagrams/toe-edge-ree_app-tee_app-multi_tenant_tee_claimgen.png (source commit: e135df4)
+  - docs/diagrams/transitive-trust.png (source commit: 4ca8357)
+  - docs/schemas/cert-profiles/claimSigningIssuingCA.cert.schema.json (source commit: c47b397)
+  - docs/schemas/cert-profiles/claimSigningIssuingCA.cert.yaml (source commit: 9507044)
+  - docs/schemas/cert-profiles/claimSigningIssuingCA.csr.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/claimSigningLeaf.al1.cert.schema.json (source commit: a951390)
+  - docs/schemas/cert-profiles/claimSigningLeaf.al1.cert.yaml (source commit: 9507044)
+  - docs/schemas/cert-profiles/claimSigningLeaf.al1.csr.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/claimSigningLeaf.al2.cert.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/claimSigningLeaf.al2.cert.yaml (source commit: 9507044)
+  - docs/schemas/cert-profiles/claimSigningLeaf.al2.csr.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/intermediateCA.cert.schema.json (source commit: e9b64f1)
+  - docs/schemas/cert-profiles/intermediateCA.csr.schema.json (source commit: e9b64f1)
+  - docs/schemas/cert-profiles/intermediateCa.cert.yaml (source commit: 5ca3c17)
+  - docs/schemas/cert-profiles/ocspResponderLeaf.cert.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/ocspResponderLeaf.cert.yaml (source commit: 9507044)
+  - docs/schemas/cert-profiles/ocspResponderLeaf.csr.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/rootCA.cert.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/rootCA.cert.yaml (source commit: 647485e)
+  - docs/schemas/cert-profiles/rootCA.csr.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/tsaIssuingCA.cert.schema.json (source commit: c47b397)
+  - docs/schemas/cert-profiles/tsaIssuingCA.cert.yaml (source commit: 9507044)
+  - docs/schemas/cert-profiles/tsaIssuingCA.csr.schema.json (source commit: 131efd6)
+  - docs/schemas/cert-profiles/tsaLeaf.cert.schema.json (source commit: a4997fc)
+  - docs/schemas/cert-profiles/tsaLeaf.cert.schema.yaml (source commit: 1407c24)
+  - docs/schemas/cert-profiles/tsaLeaf.csr.schema.json (source commit: 4a1ee58)
+--------------------------------------------------
