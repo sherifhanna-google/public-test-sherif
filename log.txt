@@ -162,3 +162,8 @@ Files Copied in This Update:
   - docs/schemas/cert-profiles/tsaLeaf.cert.schema.yaml (source commit: 1407c24)
   - docs/schemas/cert-profiles/tsaLeaf.csr.schema.json (source commit: 4a1ee58)
 --------------------------------------------------
+Log Entry: Mon Jun  9 19:14:20 UTC 2025
+Triggering Commit SHA: d91a725c99edbf28baba9b7b52084eeddd5cfa4c
+Action: Archived content from 2025-06-06_15-18-56 to 'archive/archive_2025-06-06_15-18-56'.
+Action: Populated 'current' directory by checking out file versions specified in the latest entry of 'conformance_release.json'.
+--------------------------------------------------
