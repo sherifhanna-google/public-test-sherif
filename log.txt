@@ -288,3 +288,105 @@ Files included in this release:
     Date: 2025-05-20T23:56:23-07:00
 
 --------------------------------------------------
+Log Entry: Thu Jun 12 21:00:02 UTC 2025
+Triggering Commit SHA: dc9ffe4d9003e610210d9e1022c74506421885c6
+Action: Archived content from 2025-06-12_20-55-49 to 'docs/archive/archive_2025-06-12_20-55-49'.
+Action: Populated 'docs/current' directory and created README.md using the latest entry in 'conformance_release.json'.
+
+Files included in this release:
+
+  - File: docs/C2PA Certificate Policy.pdf
+    Commit: 4f82b4c
+    Date: 2025-06-04T19:26:13Z
+  - File: docs/C2PA Conformance Program.pdf
+    Commit: 4f82b4c
+    Date: 2025-06-04T19:26:13Z
+  - File: docs/C2PA Generator Product Security Requirements.pdf
+    Commit: 4f82b4c
+    Date: 2025-06-04T19:26:13Z
+  - File: docs/C2PA Governance Framework.pdf
+    Commit: 4f82b4c
+    Date: 2025-06-04T19:26:13Z
+  - File: docs/Companion Guide for the C2PA Conforming Products List.pdf
+    Commit: 4f82b4c
+    Date: 2025-06-04T19:26:13Z
+  - File: docs/DSig 1.0 Signature Label Specification.pdf
+    Commit: 930fa94
+    Date: 2025-06-09T17:28:40-07:00
+  - File: docs/Internal Conformance Program Tracking Process.pdf
+    Commit: 4f82b4c
+    Date: 2025-06-04T19:26:13Z
+  - File: docs/schemas/cert-profiles/claimSigningIssuingCA.cert.schema.json
+    Commit: c47b397
+    Date: 2025-05-28T09:36:51-07:00
+  - File: docs/schemas/cert-profiles/claimSigningIssuingCA.cert.yaml
+    Commit: 9507044
+    Date: 2025-05-07T09:25:27-07:00
+  - File: docs/schemas/cert-profiles/claimSigningIssuingCA.csr.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/claimSigningLeaf.al1.cert.schema.json
+    Commit: a951390
+    Date: 2025-05-07T09:34:35-07:00
+  - File: docs/schemas/cert-profiles/claimSigningLeaf.al1.cert.yaml
+    Commit: 9507044
+    Date: 2025-05-07T09:25:27-07:00
+  - File: docs/schemas/cert-profiles/claimSigningLeaf.al1.csr.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/claimSigningLeaf.al2.cert.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/claimSigningLeaf.al2.cert.yaml
+    Commit: 9507044
+    Date: 2025-05-07T09:25:27-07:00
+  - File: docs/schemas/cert-profiles/claimSigningLeaf.al2.csr.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/intermediateCA.cert.schema.json
+    Commit: e9b64f1
+    Date: 2025-05-28T08:48:12-07:00
+  - File: docs/schemas/cert-profiles/intermediateCA.csr.schema.json
+    Commit: e9b64f1
+    Date: 2025-05-28T08:48:12-07:00
+  - File: docs/schemas/cert-profiles/intermediateCa.cert.yaml
+    Commit: 5ca3c17
+    Date: 2025-05-21T12:19:36-04:00
+  - File: docs/schemas/cert-profiles/ocspResponderLeaf.cert.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/ocspResponderLeaf.cert.yaml
+    Commit: 9507044
+    Date: 2025-05-07T09:25:27-07:00
+  - File: docs/schemas/cert-profiles/ocspResponderLeaf.csr.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/rootCA.cert.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/rootCA.cert.yaml
+    Commit: 647485e
+    Date: 2025-05-09T11:38:02-04:00
+  - File: docs/schemas/cert-profiles/rootCA.csr.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/tsaIssuingCA.cert.schema.json
+    Commit: c47b397
+    Date: 2025-05-28T09:36:51-07:00
+  - File: docs/schemas/cert-profiles/tsaIssuingCA.cert.yaml
+    Commit: 9507044
+    Date: 2025-05-07T09:25:27-07:00
+  - File: docs/schemas/cert-profiles/tsaIssuingCA.csr.schema.json
+    Commit: 131efd6
+    Date: 2025-05-07T08:57:32-07:00
+  - File: docs/schemas/cert-profiles/tsaLeaf.cert.schema.json
+    Commit: a4997fc
+    Date: 2025-05-22T08:30:29-07:00
+  - File: docs/schemas/cert-profiles/tsaLeaf.cert.schema.yaml
+    Commit: 1407c24
+    Date: 2025-05-10T16:36:17-04:00
+  - File: docs/schemas/cert-profiles/tsaLeaf.csr.schema.json
+    Commit: 4a1ee58
+    Date: 2025-05-20T23:56:23-07:00
+
+--------------------------------------------------
